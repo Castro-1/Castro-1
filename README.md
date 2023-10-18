@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=castro-1&label=Profile%20views&color=0e75b6&style=flat" alt="castro-1" /> </p>
 
-- 🔭 I’m currently working on [PrimusChat](https://github.com/Semillero-Inteligencia-Artificial-EAFIT/PrimusChat)
+- 🔭 I’m currently working on [Glovoz](https://github.com/Semillero-Inteligencia-Artificial-EAFIT/PrimusChat)
 
-- 🌱 I’m currently learning **Redux, Machine Learning, Deep Learning.**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Redux, Backend.**
 
-- 💬 Ask me about **HTML, Javascript, React**
+- 💬 Ask me about **Javascript, React, Deep Learning**
 
 - 📫 How to reach me **jecastrog@eafit.edu.co**
 
