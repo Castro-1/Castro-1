@@ -60,6 +60,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castro-1&show_icons=true&locale=en&layout=compact" alt="castro-1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=castro-1&show_icons=true&locale=en" alt="castro-1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=castro-1&" alt="castro-1" /></p>
