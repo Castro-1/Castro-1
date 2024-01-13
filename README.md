@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Glovoz](https://github.com/Semillero-Inteligencia-Artificial-EAFIT/Glovoz), [NumProFront](https://github.com/Castro-1/NumProFront), [NumProBack](https://github.com/Castro-1/NumProBack), [HouseWiseFront](https://github.com/Castro-1/HouseWiseFront), [HouseWiseBack](https://github.com/Castro-1/HouseWiseBack).
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Redux, Backend.**
+- 🌱 I’m currently learning **Software Design and Architecture, Frontend, Backend.**
 
 - 💬 Ask me about **Javascript, React, Deep Learning**
 
