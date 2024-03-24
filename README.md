@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Castro Garcia</h1>
 <h3 align="center">A Software Development and Machine Learning enthusiast.</h3>
 
-- 🔭 I’m currently working on [Glovoz](https://github.com/Semillero-Inteligencia-Artificial-EAFIT/Glovoz), [NumProFront](https://github.com/Castro-1/NumProFront), [NumProBack](https://github.com/Castro-1/NumProBack), [HouseWiseFront](https://github.com/Castro-1/HouseWiseFront), [HouseWiseBack](https://github.com/Castro-1/HouseWiseBack).
+- 🔭 I’m currently working on [Agendamiento Casa Ferretera](https://github.com/CodeCrew-EAFIT/Agendamiento_Casa_Ferretera).
 
 - 🌱 I’m currently learning **Software Design and Architecture, Frontend, Backend.**
 
-- 💬 Ask me about **Javascript, React, Deep Learning**
+- 💬 Ask me about **Javascript, React, Python, Deep Learning**
 
 - 📫 How to reach me **jecastrog@eafit.edu.co**
 
