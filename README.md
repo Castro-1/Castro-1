@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Software Design and Architecture, Frontend, Backend.**
 
-- 💬 Ask me about **Javascript, React, Python, Deep Learning**
+- 💬 Ask me about **Javascript, React, Python, Deep Learning.**
 
-- 📫 How to reach me **jecastrog@eafit.edu.co**
+- 📫 How to reach me **jecastrog@eafit.edu.co.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=castro-1&label=Profile%20views&color=0e75b6&style=flat" alt="castro-1" /> </p>
 
