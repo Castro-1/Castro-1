@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Agendamiento Casa Ferretera](https://github.com/CodeCrew-EAFIT/Agendamiento_Casa_Ferretera).
 
-- 🌱 I’m currently learning **Software Design and Architecture, Frontend, Backend.**
+- 🌱 I’m currently learning **Rust, Docker.**
 
-- 💬 Ask me about **Javascript, React, Python, Deep Learning.**
+- 💬 Ask me about **React, Python, Deep Learning.**
 
 - 📫 How to reach me **jecastrog@eafit.edu.co.**
 
